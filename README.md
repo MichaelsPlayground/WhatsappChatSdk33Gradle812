@@ -3,8 +3,8 @@ It is an open-source app with real-time messaging using Firebase and Node Js.
 
 Original source: https://github.com/krishkamani/ChatApp
 
-Note: the code is updated to modern Android version (compile version SDK 33), tested on real devices 
-with Android 12 and Android 8.
+Note: the code is updated to modern Android version (compile version SDK 33) and Gradle 8.12, tested on real devices 
+with Android 13 and Android 8.
 
 This version **WhatsappChatSdk33Newer** get some additions like a paginated RecyclerView for 
 the chat message.
