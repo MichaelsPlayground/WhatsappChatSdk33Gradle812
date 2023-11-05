@@ -6,6 +6,8 @@ Original source: https://github.com/krishkamani/ChatApp
 Note: the code is updated to modern Android version (compile version SDK 33) and Gradle 8.12, tested on real devices 
 with Android 13 and Android 8.
 
+The app is working (tested on 05 Nov 2023).
+
 This version **WhatsappChatSdk33Newer** get some additions like a paginated RecyclerView for 
 the chat message.
 
